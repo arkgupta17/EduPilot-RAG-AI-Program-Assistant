@@ -1,15 +1,15 @@
 # EduPilot 
-AI-powered course assistant that answers any question about any educational program — instantly.
+AI-powered course assistant that answers any question about any educational program - instantly.
 
 EduPilot uses a RAG (Retrieval-Augmented Generation) pipeline to scrape official program pages, index the content, and answer student queries with grounded, accurate responses. No hallucinations. No guesswork.
 
-Built for FrostHack @ IIT Mandi — Xpecto'26.
+Built for FrostHack @ IIT Mandi - Xpecto'26.
 
 
 
 ## What it does
 
-Prospective students waste hours digging through cluttered college websites trying to find fees, eligibility, curriculum details, and career outcomes. EduPilot fixes that — paste any program URL and ask anything in plain English.
+Prospective students waste hours digging through cluttered college websites trying to find fees, eligibility, curriculum details, and career outcomes. EduPilot fixes that -paste any program URL and ask anything in plain English.
 
 ---
 
