@@ -1,0 +1,7 @@
+playwright
+sentence-transformers
+torch
+faiss-cpu
+groq
+streamlit
+numpy

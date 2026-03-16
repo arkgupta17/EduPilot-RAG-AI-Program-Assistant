@@ -1,0 +1,1827 @@
+
+
+============================================================
+SOURCE: PGP-IN-APPLIED-AI-AND-AGENTIC-SYSTEMS (https://mastersunion.org/pgp-in-applied-ai-and-agentic-systems)
+============================================================
+
+PG Programme in
+Applied AI & Agentic Systems
+
+A hands-on 15 month programme where you build AI agents every term.
+
+Apply Now
+PG Programme in Applied AI & Agentic Systems
+
+FORMAT
+
+Offline/Online
+
+Weekday offline for graduates; Weekend online designed for working professionals.
+
+COHORT STARTING
+
+Jun '26
+
+Applications Open
+
+ELIGIBILITY
+
+BCA/B.Tech
+
+For graduates and professionals with up to 5 years of experience.
+
+DURATION
+
+15 months
+
+Including live projects & Internship
+
+Apply Now
+Download Brochure
+Designed For Future AI Engineers,
+Machine Learning Engineers, and CTOs
+
+Build an AI-powered chatbot for customer support
+
+Python | R | SQL | TensorFlow | PyTorch | Scikit-learn | Keras | NLP
+
+Build an autonomous AI agent to automate real business workflows
+
+Agents | Tool Use | APIs | FastAPI | LangChain | Function Calling
+
+Detect fraud in transaction data using classification models
+
+Decision Trees | Random Forests | SVM | XGBoost | LightGBM
+
+Develop a sales forecasting model for retail businesses
+
+Regression | Time Series Forecasting | Anomaly Detection | K-Means Clustering | Scikit-learn
+
+Fine-tune a recommendation engine for an e-commerce site
+
+Hyperparameter Tuning | Cross-Validation | Model Ensembling | Feature Engineering
+
+Build a fairness analysis tool for hiring algorithms
+
+Bias Mitigation | Fairness in AI | Interpretability | Model Transparency | Scikit-learn | Data Privacy (GDPR)
+
+Optimize supply chain logistics using reinforcement learning
+
+Reinforcement Learning | Q-Learning | TensorFlow | Keras | Decision Trees
+
+Build an AI-powered chatbot for customer support
+
+Python | R | SQL | TensorFlow | PyTorch | Scikit-learn | Keras | NLP
+
+Build an autonomous AI agent to automate real business workflows
+
+Agents | Tool Use | APIs | FastAPI | LangChain | Function Calling
+
+Detect fraud in transaction data using classification models
+
+Decision Trees | Random Forests | SVM | XGBoost | LightGBM
+
+Develop a sales forecasting model for retail businesses
+
+Regression | Time Series Forecasting | Anomaly Detection | K-Means Clustering | Scikit-learn
+
+Fine-tune a recommendation engine for an e-commerce site
+
+Hyperparameter Tuning | Cross-Validation | Model Ensembling | Feature Engineering
+
+Build a fairness analysis tool for hiring algorithms
+
+Bias Mitigation | Fairness in AI | Interpretability | Model Transparency | Scikit-learn | Data Privacy (GDPR)
+
+Optimize supply chain logistics using reinforcement learning
+
+Reinforcement Learning | Q-Learning | TensorFlow | Keras | Decision Trees
+
+Choose Your Learning Path
+Offline Weekday Programme
+ON-CAMPUS, GURUGRAM - WEEKDAYS
+For freshers with BCA / B.Tech / CS-related degree (final year or recent graduate)
+Full-time, on-campus learning in Gurugram with studios, labs, and mentor sessions every weekday
+Build agents in teams, collaborate daily, and participate in campus build sprints and hackrooms
+Includes placement support & internship assistance for first-time job seekers
+Online Weekend Programme
+WEEKEND LIVE CLASSES + FLEXIBLE WEEKDAYS
+For working professionals in tech roles
+Live weekend classes & self-paced weekday work designed to fit alongside a full-time job
+Apply everything directly at work, build agents for your current role or organization
+Includes career transition support and portfolio positioning for role shifts into Applied AI
+Learn to Build
+Cutting-Edge AI Solutions
+
+Every term, build an industry-grade AI solution, from chatbots and agents to ML models, RAG systems, and domain-specific applications.
+
+Term 1
+Develop AI Tools
+Term 2
+Apply in Industry
+Term 3
+Develop AI Tools
+Term 4
+Apply in Industry
+Term 5 - 6
+Develop AI Tools
+
+Applied AI Chatbot Challenge
+
+Build AI chatbots that solve real-world problems and improve processes. Examples include:
+
+Create advanced AI chatbots that solve one meaningful use case by combining Python, LLM APIs, and no-code tools.
+
+
+
+Build a wellbeing chatbot using basic psychological principles to help users manage stress & anxiety.
+
+Create a study buddy chatbot to assist students with subject knowledge and doubt solving.
+
+Design a customer support chatbot for handling FAQs and product queries.
+
+LLM API Integration (OpenAI / equivalent)
+Data Structures & Data Handling Basics (Pandas, CSV/JSON)
+Prompt Engineering & Conversational UX
+Chatbot Workflow Design
+Basic Automation Testing for chatbot behaviour
+
+Agentic AI Accelerator for Business
+
+Build autonomous, tool-using AI agents that automate org workflows and integrate with live data sources.
+
+
+
+Develop AI agents that reduce man hours and boost team productivity. Examples include:
+
+Automate HR Operations (onboarding, payroll, leave management) for a large IT consulting firm.
+
+Generate ad creatives and design variants for digital marketing for an online D2C brand.
+
+Automate procurement across 100+ products for an automotive manufacturing plant.
+
+Process Automation & Workflow Analysis
+Autonomous Agent Development
+Data Engineering & Data Wrangling for agents
+API Integration
+Data Visualisation for ops decision-making
+
+AI Application in Industry:
+ML Consulting Garage
+
+Transform business data into actionable insights using supervised and unsupervised ML.
+
+
+
+Create actionable insights backed by data to solve a company-specific problem. Examples include:
+
+Use clustering algorithms to segment customers for companies like Myntra or Zomato.
+
+Build a churn-prediction model for a subscription business to identify high-risk customers.
+
+Develop a sales-prediction model for an e-commerce brand to optimise marketing spend.
+
+Unsupervised Learning Models
+Supervised ML Models
+Exploratory Data Analysis
+Business Data Analysis
+Feature Engineering & Data Preprocessing
+Model Evaluation & Interpretation
+Framing ML insights
+
+RAG System Building Challenge
+
+Build powerful, domain-specific AI assistants using Retrieval-Augmented Generation (RAG) that deliver accurate, traceable answers on top of private data.
+
+
+
+Deploy a RAG system that answers 1,000+ product-specific customer queries without human intervention. Examples:
+
+Design a legal document summariser to assist lawyers with case preparation.
+
+Build a medical assistant to support doctors in diagnostics and second opinions.
+
+Create an educational assistant to support researchers in their thesis development.
+
+Retrieval Augmented Generation (RAG)
+LLM Fine-Tuning
+Embeddings & Indexing
+Query Optimisation
+Prompt Orchestration
+Information Retrieval
+Neural Network Fundamentals
+Monitoring & Evaluation of RAG systems
+
+AI Immersion in Retail, Health, and Finance
+
+Build and deploy domain-specific AI solutions that are reliable, compliant, and market-ready.
+
+
+
+Design industry-ready AI solutions and secure 3–5 real paying clients. Examples include:
+
+Create a system that automates supplier selection and inventory management for a retailer.
+
+Develop an AI system for early disease diagnosis (e.g., cancer risk) through medical record analysis.
+
+Build a reinforcement learning–based portfolio optimisation system to balance risk and return.
+
+Supervised Learning
+Data Architecture Awareness
+Model Evaluation at scale
+Domain Constraints & Regulation
+Reinforcement Learning
+Adaptive Learning Systems
+Predictive Modelling
+AI Governance & Ethics
+Data Interpretation
+Student Entrepreneurs
+
+Reyansh Juneja, Founder, Memotag: A hardware-AI solution designed to help dementia patients, which was also pitched at Shark Tank India finale.
+
+Kabir Teria, Founder, theGoodBrowser: A large action model-based AI browser that is likely to rival even Google Chrome.
+
+Ansh Mamgain, Founder, AIOS: An AI-based operating system that adapts to users rather than the other way around, much like Jarvis.
+
+Tanvee Maheshwari, Co-founder, SEMS: A Student Experience Management System, aimed to streamline student communication, updates and deadlines.
+
+Aashwin Dev, Founder, Bhupesh Chatbot & Elite: An AI chatbot that mimics professors to help classmates prep smarter and a SaaS tool for hiring already in pilot.
+
+Arjun, Founder, Glam Girls Dress Up Haven: A fashion-focused dress-up game currently in beta, already engaging over 40,000 paying users worldwide.
+
+Watch Video
+The Masters' Union Edge in Applied AI
+
+Experience a world-class curriculum, unparalleled mentorship, and real-world impact that will
+accelerate your journey to becoming an AI leader.
+
+FACULTY & MENTORSHIP
+Learn from Leading
+AI Experts and CTOs
+
+Courses taught by executives from Microsoft, Google, and top tech companies, along with exclusive mentorship.
+
+
+
+1:1 mentorship from AI leaders at Amazon
+
+
+
+Masterclasses by global AI experts and influencers
+
+
+
+1:5 mentor-to-student ratio ensures personalised guidance
+
+CURRICULUM
+Real-World Application of
+AI & Agentic Systems
+
+Co-built with  PwC, Ola Krutrim, and Rabbit AI, our curriculum emphasises application and impact.
+
+
+
+Develop real-world AI solutions for industries
+
+
+
+Hands-on projects using industry-standard tools
+
+
+
+Real-time case studies and interactive workshops
+
+PERSONAL BRANDING
+Establish Your
+Presence in the AI Community
+
+Learn how to build a strong online presence and showcase your expertise in AI through industry-specific platforms.
+
+
+
+Publish your models and research on GitHub
+
+
+
+Start an expert series on LinkedIn or YouTube
+
+
+
+Attract employers with high-value AI insights
+
+COMMUNICATION & LEADERSHIP
+Enhance Communication and
+Leadership Skills
+
+Develop critical soft skills that will set you apart in the fast-paced AI industry.
+
+
+
+Sharpen leadership and decision-making abilities
+
+
+
+Learn how to communicate complex AI concepts clearly
+
+
+
+Build confidence in executive-level presentations
+
+Build with Our Expert Community
+
+Surround yourself with AI engineers, researchers, founders, and practitioners who ship real systems. You’ll learn in public, get feedback that actually moves your work forward, and grow inside a community that builds together.
+
+
+
+Publish on GitHub & HuggingFace and build a portfolio.
+
+
+
+Work in small squads with weekly code & model reviews.
+
+
+
+Ship 6 deployable AI agents across real industry use cases.
+
+
+
+Get guidance from practicing AI engineers every term.
+
+
+
+Present your work at community demos & OSS showcases.
+
+“I've sent the Push Request”
+
+“Merge with main branch”
+
+“Ship via PRs into live repos”
+
+Exploring the Future of AI
+Dr. Nandini Seth on The Ranveer Show
+
+Dr. Nandini Seth a PhD from IIM Bangalore and a founding
+faculty at Masters’ Union explores AI, jobs, and India’s tech
+future on The Ranveer Show, Masters’ Union leads the charge.
+
+Watch Episode
+Learn from Real AI Experts & Industry Leaders. Not Just Textbooks.
+
+Courses taught by 20+ AI practitioners from Amazon, Microsoft, PayPal, and MIT.
+
+Access exclusive guest sessions from industry leaders like Tarun Malik and
+Malthi Satish.
+
+Engage in live Q&A sessions with Global AI leaders and innovators.
+
+1:1 consultation with experts from Google, IBM, and leading AI startups like
+Rabbit AI.
+
+Mr. Nitin Gaur
+Fmr. Director, Financial Sciences and Digital Assets
+Siddarth Padmanabhan
+Former Partner Manager
+Divij Bajaj
+Data and Applied Scientist
+Karan Bhyana
+Business Intelligence Generalist
+Sumoya Ghosh
+People Experience Partner
+Harneet S N
+Founder
+Vaibhav Gupta
+Sr. Product Manager
+Tarun Malik
+Co-Founder
+Ujjyaini Mitra
+Fromer Chief Data Officer
+Shanshank S Sharma
+Co-Founder
+Mr. Sidharth Balakrishna
+Former Group Strategy Head
+Dr. Soumik Bhushan
+Ex- Head CX Strategy
+Mr. Manoj Kohli
+Former CEO
+Ms. Malthi Satish
+Former Director of PM
+Dr. Tathagata Dasgupta
+Chief Data & Analytics Officer
+Mr. Rohit Kapoor
+CEO, Food Marketplace Swiggy
+Dr. Edward W Rogers
+Former Chief Knowledge Officer
+Mr. Elkana Ezekiel
+Former CMO
+Mr. Satish Krishnan
+Former MD
+Dr. Lan Ma
+Adjunct Professor of Business
+Ms. Vineeta Tikekar
+Former Head of Marketing
+Dr. Vishnuprasad N.
+Former Dean
+Dr. Bhupesh Manoharan
+Ph.D, IIM Calcutta
+Dr. Meenakshi Rishi
+Professor of Economics
+Dr. Nandini Seth
+Ph.D, IIM Bangalore
+Dr. Shad Morris
+Professor, MIT Sloan
+Dr. Akshay Narayanan
+Ph.D, IIM Calcutta
+Mr. Raghavshyam R.
+Adjunct Faculty
+Dr. Vipin Sreekumar
+Ph.D, IIM Calcutta
+Dr. Daniel GVD Vliet
+Executive Director
+Dr. Meha Kohli Mishra
+Ph.D, VCU
+Dr. Rajesh Bhargave
+Professor
+Dr. Garima Chaklader
+Ph.D, IIM Bangalore
+Dr. Francis Rebello
+Former Head- HR
+Dr. Kashika Sud
+Ph.D, IIM Ahmedabad
+Mr. Rajesh Madhavan
+Advisor
+Dr. Rinku Mahindru
+Ph.D, Delhi School of Economics
+Ms. Shivanee Pethe
+Ph.D, IIM Calcutta
+Dr. Aarti Sharma
+Ph.D, Shiv Nadar University
+Dr. Rakshita Sharma
+Former CHRO
+Dr. Arvind Mayaram
+Former Finance Secretary of India
+Mr. Ajay Jamuar
+Chief Operations Officer
+Ms. Monica Jasuja
+Head of Emerging Partnerships
+Dr. Manu Prasad
+Ph.D, IIM Tiruchirappalli
+Mr. Nitin Gaur
+Fmr. Director, Financial Sciences and Digital Assets
+Siddarth Padmanabhan
+Former Partner Manager
+Divij Bajaj
+Data and Applied Scientist
+Karan Bhyana
+Business Intelligence Generalist
+Sumoya Ghosh
+People Experience Partner
+Harneet S N
+Founder
+Vaibhav Gupta
+Sr. Product Manager
+Tarun Malik
+Co-Founder
+Ujjyaini Mitra
+Fromer Chief Data Officer
+Shanshank S Sharma
+Co-Founder
+Mr. Sidharth Balakrishna
+Former Group Strategy Head
+Dr. Soumik Bhushan
+Ex- Head CX Strategy
+Mr. Manoj Kohli
+Former CEO
+Ms. Malthi Satish
+Former Director of PM
+Dr. Tathagata Dasgupta
+Chief Data & Analytics Officer
+Mr. Rohit Kapoor
+CEO, Food Marketplace Swiggy
+Dr. Edward W Rogers
+Former Chief Knowledge Officer
+Mr. Elkana Ezekiel
+Former CMO
+Mr. Satish Krishnan
+Former MD
+Dr. Lan Ma
+Adjunct Professor of Business
+Ms. Vineeta Tikekar
+Former Head of Marketing
+Dr. Vishnuprasad N.
+Former Dean
+Dr. Bhupesh Manoharan
+Ph.D, IIM Calcutta
+Dr. Meenakshi Rishi
+Professor of Economics
+Dr. Nandini Seth
+Ph.D, IIM Bangalore
+Dr. Shad Morris
+Professor, MIT Sloan
+Dr. Akshay Narayanan
+Ph.D, IIM Calcutta
+Mr. Raghavshyam R.
+Adjunct Faculty
+Dr. Vipin Sreekumar
+Ph.D, IIM Calcutta
+Dr. Daniel GVD Vliet
+Executive Director
+Dr. Meha Kohli Mishra
+Ph.D, VCU
+Dr. Rajesh Bhargave
+Professor
+Dr. Garima Chaklader
+Ph.D, IIM Bangalore
+Dr. Francis Rebello
+Former Head- HR
+Dr. Kashika Sud
+Ph.D, IIM Ahmedabad
+Mr. Rajesh Madhavan
+Advisor
+Dr. Rinku Mahindru
+Ph.D, Delhi School of Economics
+Ms. Shivanee Pethe
+Ph.D, IIM Calcutta
+Dr. Aarti Sharma
+Ph.D, Shiv Nadar University
+Dr. Rakshita Sharma
+Former CHRO
+Dr. Arvind Mayaram
+Former Finance Secretary of India
+Mr. Ajay Jamuar
+Chief Operations Officer
+Ms. Monica Jasuja
+Head of Emerging Partnerships
+Dr. Manu Prasad
+Ph.D, IIM Tiruchirappalli
+Mr. Nitin Gaur
+Fmr. Director, Financial Sciences and Digital Assets
+Siddarth Padmanabhan
+Former Partner Manager
+Divij Bajaj
+Data and Applied Scientist
+Karan Bhyana
+Business Intelligence Generalist
+Sumoya Ghosh
+People Experience Partner
+Harneet S N
+Founder
+Vaibhav Gupta
+Sr. Product Manager
+Tarun Malik
+Co-Founder
+Ujjyaini Mitra
+Fromer Chief Data Officer
+Shanshank S Sharma
+Co-Founder
+Mr. Sidharth Balakrishna
+Former Group Strategy Head
+Dr. Soumik Bhushan
+Ex- Head CX Strategy
+Mr. Manoj Kohli
+Former CEO
+Ms. Malthi Satish
+Former Director of PM
+Dr. Tathagata Dasgupta
+Chief Data & Analytics Officer
+Mr. Rohit Kapoor
+CEO, Food Marketplace Swiggy
+Dr. Edward W Rogers
+Former Chief Knowledge Officer
+Mr. Elkana Ezekiel
+Former CMO
+Mr. Satish Krishnan
+Former MD
+Dr. Lan Ma
+Adjunct Professor of Business
+Ms. Vineeta Tikekar
+Former Head of Marketing
+Dr. Vishnuprasad N.
+Former Dean
+Dr. Bhupesh Manoharan
+Ph.D, IIM Calcutta
+Dr. Meenakshi Rishi
+Professor of Economics
+Dr. Nandini Seth
+Ph.D, IIM Bangalore
+Dr. Shad Morris
+Professor, MIT Sloan
+Dr. Akshay Narayanan
+Ph.D, IIM Calcutta
+Mr. Raghavshyam R.
+Adjunct Faculty
+Dr. Vipin Sreekumar
+Ph.D, IIM Calcutta
+Dr. Daniel GVD Vliet
+Executive Director
+Dr. Meha Kohli Mishra
+Ph.D, VCU
+Dr. Rajesh Bhargave
+Professor
+Dr. Garima Chaklader
+Ph.D, IIM Bangalore
+Dr. Francis Rebello
+Former Head- HR
+Dr. Kashika Sud
+Ph.D, IIM Ahmedabad
+Mr. Rajesh Madhavan
+Advisor
+Dr. Rinku Mahindru
+Ph.D, Delhi School of Economics
+Ms. Shivanee Pethe
+Ph.D, IIM Calcutta
+Dr. Aarti Sharma
+Ph.D, Shiv Nadar University
+Dr. Rakshita Sharma
+Former CHRO
+Dr. Arvind Mayaram
+Former Finance Secretary of India
+Mr. Ajay Jamuar
+Chief Operations Officer
+Ms. Monica Jasuja
+Head of Emerging Partnerships
+Dr. Manu Prasad
+Ph.D, IIM Tiruchirappalli
+Mr. Nitin Gaur
+Fmr. Director, Financial Sciences and Digital Assets
+Siddarth Padmanabhan
+Former Partner Manager
+Divij Bajaj
+Data and Applied Scientist
+Karan Bhyana
+Business Intelligence Generalist
+Sumoya Ghosh
+People Experience Partner
+Harneet S N
+Founder
+Vaibhav Gupta
+Sr. Product Manager
+Tarun Malik
+Co-Founder
+Ujjyaini Mitra
+Fromer Chief Data Officer
+Shanshank S Sharma
+Co-Founder
+Mr. Sidharth Balakrishna
+Former Group Strategy Head
+Dr. Soumik Bhushan
+Ex- Head CX Strategy
+Mr. Manoj Kohli
+Former CEO
+Ms. Malthi Satish
+Former Director of PM
+Dr. Tathagata Dasgupta
+Chief Data & Analytics Officer
+Mr. Rohit Kapoor
+CEO, Food Marketplace Swiggy
+Dr. Edward W Rogers
+Former Chief Knowledge Officer
+Mr. Elkana Ezekiel
+Former CMO
+Mr. Satish Krishnan
+Former MD
+Dr. Lan Ma
+Adjunct Professor of Business
+Ms. Vineeta Tikekar
+Former Head of Marketing
+Dr. Vishnuprasad N.
+Former Dean
+Dr. Bhupesh Manoharan
+Ph.D, IIM Calcutta
+Dr. Meenakshi Rishi
+Professor of Economics
+Dr. Nandini Seth
+Ph.D, IIM Bangalore
+Dr. Shad Morris
+Professor, MIT Sloan
+Dr. Akshay Narayanan
+Ph.D, IIM Calcutta
+Mr. Raghavshyam R.
+Adjunct Faculty
+Dr. Vipin Sreekumar
+Ph.D, IIM Calcutta
+Dr. Daniel GVD Vliet
+Executive Director
+Dr. Meha Kohli Mishra
+Ph.D, VCU
+Dr. Rajesh Bhargave
+Professor
+Dr. Garima Chaklader
+Ph.D, IIM Bangalore
+Dr. Francis Rebello
+Former Head- HR
+Dr. Kashika Sud
+Ph.D, IIM Ahmedabad
+Mr. Rajesh Madhavan
+Advisor
+Dr. Rinku Mahindru
+Ph.D, Delhi School of Economics
+Ms. Shivanee Pethe
+Ph.D, IIM Calcutta
+Dr. Aarti Sharma
+Ph.D, Shiv Nadar University
+Dr. Rakshita Sharma
+Former CHRO
+Dr. Arvind Mayaram
+Former Finance Secretary of India
+Mr. Ajay Jamuar
+Chief Operations Officer
+Ms. Monica Jasuja
+Head of Emerging Partnerships
+Dr. Manu Prasad
+Ph.D, IIM Tiruchirappalli
+Reach out to the
+Support Team
+
+pgadmissions@mastersunion.org
+
++91 8929361765
+
+World-Class Campus in the Heart of Gurugram
+Book a Campus Tour
+Explore Masters' Union ...
+Student Life
+Explore Careers
+See the Campus
+Explore Events
+
+
+============================================================
+SOURCE: PGP-IN-APPLIED-AI-AND-AGENTIC-SYSTEMS-CURRICULUM (https://mastersunion.org/pgp-in-applied-ai-and-agentic-systems-curriculum)
+============================================================
+
+PG Programme in
+Applied AI & Agentic Systems
+
+A hands-on 15 month programme where you build AI agents every term.
+
+Apply Now
+PG Programme in Applied AI & Agentic Systems
+
+FORMAT
+
+Offline/Online
+
+Weekday offline for graduates; Weekend online designed for working professionals.
+
+COHORT STARTING
+
+Jun '26
+
+Applications Open
+
+ELIGIBILITY
+
+BCA/B.Tech
+
+For graduates and professionals with up to 5 years of experience.
+
+DURATION
+
+15 months
+
+Including live projects & Internship
+
+Apply Now
+Download Brochure
+Explore with an
+AI-Packed Curriculum
+
+Immerse into our cutting-edge AI-packed Curriculum, tailored to showcase real-world applications and innovation.
+
+Enabling You to Excel
+Inside and Outside the Classroom
+Term 0
+
+Foundations of Programming
+
+Master Python, math for ML, and clean coding practices to establish a strong technical base for everything that follows.
+
+Term 1
+
+Data Analytics & AI Foundations
+
+Use statistics, SQL, visualisation, and prompt engineering to explore data, uncover insights, and build your first functional AI chatbot.
+
+Term 2
+
+Agents & Automation with Modern AI
+
+Learn how agent architectures, APIs, and classic ML methods combine to automate workflows and power real business operations.
+
+Term 3
+
+Applied Machine Learning for Real Decisions
+
+Build, evaluate, tune, deploy, and communicate ML models that directly influence business strategy and operational outcomes.
+
+Term 4
+
+RAG, Neural Networks & Data Engineering
+
+Construct scalable RAG systems, understand neural networks, and engineer robust data pipelines that keep AI products running reliably.
+
+Term 5
+
+Domain AI & Enterprise ML Design
+
+Apply supervised learning, forecasting, RL, and domain constraints to design AI solutions that are accurate, ethical, and compliant.
+
+Term 6
+
+MLOps, Governance & AI Leadership
+
+Master CI/CD for ML, monitoring, system design, and responsible AI to deliver enterprise-grade solutions and lead AI initiatives.
+
+Mastering Generative AI with
+Varun Mayya’s Masterclass
+
+Varun Mayya visited Masters’ Union to teach students how to work with generative AI, covering its impact on content creation, the fundamentals behind how it works, and what it could mean for the future of jobs. Watch the video to know more.
+
+Watch Video
+Real Insights from Our Faculty
+
+Gain insights from industry leaders on how technology is shaping the future.
+
+Tarun Malik, Ex. Microsoft & Amazon
+
+How Microsoft and Open AI are rewriting the AI rulebook
+
+Dr. Nandini Seth, Professor of Data - MU
+
+If AI will eat coders, how should one study AI
+
+Manpreet Ahuja, Chief Digital Officer - PwC
+
+How PwC is bringing impactful AI transformations to its clients
+
+Rohit Kumar, ChapterApps
+
+Explore the role of AI in learning and the future of work
+
+Dr. Vidur Mahajan, CARPL.ai
+
+Learn how AI is transforming healthcare and radiology
+
+Mr. Harneet Singh, Rabbitt AI
+
+Unlock secrets to a career in AI
+
+Learn from Real AI Experts & Industry Leaders. Not Just Textbooks.
+
+Courses taught by 20+ AI practitioners from Amazon, Microsoft, PayPal, and MIT.
+
+Access exclusive guest sessions from industry leaders like Tarun Malik and
+Malthi Satish.
+
+Engage in live Q&A sessions with Global AI leaders and innovators.
+
+1:1 consultation with experts from Google, IBM, and leading AI startups like
+Rabbit AI.
+
+Mr. Nitin Gaur
+Fmr. Director, Financial Sciences and Digital Assets
+Siddarth Padmanabhan
+Former Partner Manager
+Divij Bajaj
+Data and Applied Scientist
+Karan Bhyana
+Business Intelligence Generalist
+Sumoya Ghosh
+People Experience Partner
+Harneet S N
+Founder
+Vaibhav Gupta
+Sr. Product Manager
+Tarun Malik
+Co-Founder
+Ujjyaini Mitra
+Fromer Chief Data Officer
+Shanshank S Sharma
+Co-Founder
+Mr. Sidharth Balakrishna
+Former Group Strategy Head
+Dr. Soumik Bhushan
+Ex- Head CX Strategy
+Mr. Manoj Kohli
+Former CEO
+Ms. Malthi Satish
+Former Director of PM
+Dr. Tathagata Dasgupta
+Chief Data & Analytics Officer
+Mr. Rohit Kapoor
+CEO, Food Marketplace Swiggy
+Dr. Edward W Rogers
+Former Chief Knowledge Officer
+Mr. Elkana Ezekiel
+Former CMO
+Mr. Satish Krishnan
+Former MD
+Dr. Lan Ma
+Adjunct Professor of Business
+Ms. Vineeta Tikekar
+Former Head of Marketing
+Dr. Vishnuprasad N.
+Former Dean
+Dr. Bhupesh Manoharan
+Ph.D, IIM Calcutta
+Dr. Meenakshi Rishi
+Professor of Economics
+Dr. Nandini Seth
+Ph.D, IIM Bangalore
+Dr. Shad Morris
+Professor, MIT Sloan
+Dr. Akshay Narayanan
+Ph.D, IIM Calcutta
+Mr. Raghavshyam R.
+Adjunct Faculty
+Dr. Vipin Sreekumar
+Ph.D, IIM Calcutta
+Dr. Daniel GVD Vliet
+Executive Director
+Dr. Meha Kohli Mishra
+Ph.D, VCU
+Dr. Rajesh Bhargave
+Professor
+Dr. Garima Chaklader
+Ph.D, IIM Bangalore
+Dr. Francis Rebello
+Former Head- HR
+Dr. Kashika Sud
+Ph.D, IIM Ahmedabad
+Mr. Rajesh Madhavan
+Advisor
+Dr. Rinku Mahindru
+Ph.D, Delhi School of Economics
+Ms. Shivanee Pethe
+Ph.D, IIM Calcutta
+Dr. Aarti Sharma
+Ph.D, Shiv Nadar University
+Dr. Rakshita Sharma
+Former CHRO
+Dr. Arvind Mayaram
+Former Finance Secretary of India
+Mr. Ajay Jamuar
+Chief Operations Officer
+Ms. Monica Jasuja
+Head of Emerging Partnerships
+Dr. Manu Prasad
+Ph.D, IIM Tiruchirappalli
+Mr. Nitin Gaur
+Fmr. Director, Financial Sciences and Digital Assets
+Siddarth Padmanabhan
+Former Partner Manager
+Divij Bajaj
+Data and Applied Scientist
+Karan Bhyana
+Business Intelligence Generalist
+Sumoya Ghosh
+People Experience Partner
+Harneet S N
+Founder
+Vaibhav Gupta
+Sr. Product Manager
+Tarun Malik
+Co-Founder
+Ujjyaini Mitra
+Fromer Chief Data Officer
+Shanshank S Sharma
+Co-Founder
+Mr. Sidharth Balakrishna
+Former Group Strategy Head
+Dr. Soumik Bhushan
+Ex- Head CX Strategy
+Mr. Manoj Kohli
+Former CEO
+Ms. Malthi Satish
+Former Director of PM
+Dr. Tathagata Dasgupta
+Chief Data & Analytics Officer
+Mr. Rohit Kapoor
+CEO, Food Marketplace Swiggy
+Dr. Edward W Rogers
+Former Chief Knowledge Officer
+Mr. Elkana Ezekiel
+Former CMO
+Mr. Satish Krishnan
+Former MD
+Dr. Lan Ma
+Adjunct Professor of Business
+Ms. Vineeta Tikekar
+Former Head of Marketing
+Dr. Vishnuprasad N.
+Former Dean
+Dr. Bhupesh Manoharan
+Ph.D, IIM Calcutta
+Dr. Meenakshi Rishi
+Professor of Economics
+Dr. Nandini Seth
+Ph.D, IIM Bangalore
+Dr. Shad Morris
+Professor, MIT Sloan
+Dr. Akshay Narayanan
+Ph.D, IIM Calcutta
+Mr. Raghavshyam R.
+Adjunct Faculty
+Dr. Vipin Sreekumar
+Ph.D, IIM Calcutta
+Dr. Daniel GVD Vliet
+Executive Director
+Dr. Meha Kohli Mishra
+Ph.D, VCU
+Dr. Rajesh Bhargave
+Professor
+Dr. Garima Chaklader
+Ph.D, IIM Bangalore
+Dr. Francis Rebello
+Former Head- HR
+Dr. Kashika Sud
+Ph.D, IIM Ahmedabad
+Mr. Rajesh Madhavan
+Advisor
+Dr. Rinku Mahindru
+Ph.D, Delhi School of Economics
+Ms. Shivanee Pethe
+Ph.D, IIM Calcutta
+Dr. Aarti Sharma
+Ph.D, Shiv Nadar University
+Dr. Rakshita Sharma
+Former CHRO
+Dr. Arvind Mayaram
+Former Finance Secretary of India
+Mr. Ajay Jamuar
+Chief Operations Officer
+Ms. Monica Jasuja
+Head of Emerging Partnerships
+Dr. Manu Prasad
+Ph.D, IIM Tiruchirappalli
+Mr. Nitin Gaur
+Fmr. Director, Financial Sciences and Digital Assets
+Siddarth Padmanabhan
+Former Partner Manager
+Divij Bajaj
+Data and Applied Scientist
+Karan Bhyana
+Business Intelligence Generalist
+Sumoya Ghosh
+People Experience Partner
+Harneet S N
+Founder
+Vaibhav Gupta
+Sr. Product Manager
+Tarun Malik
+Co-Founder
+Ujjyaini Mitra
+Fromer Chief Data Officer
+Shanshank S Sharma
+Co-Founder
+Mr. Sidharth Balakrishna
+Former Group Strategy Head
+Dr. Soumik Bhushan
+Ex- Head CX Strategy
+Mr. Manoj Kohli
+Former CEO
+Ms. Malthi Satish
+Former Director of PM
+Dr. Tathagata Dasgupta
+Chief Data & Analytics Officer
+Mr. Rohit Kapoor
+CEO, Food Marketplace Swiggy
+Dr. Edward W Rogers
+Former Chief Knowledge Officer
+Mr. Elkana Ezekiel
+Former CMO
+Mr. Satish Krishnan
+Former MD
+Dr. Lan Ma
+Adjunct Professor of Business
+Ms. Vineeta Tikekar
+Former Head of Marketing
+Dr. Vishnuprasad N.
+Former Dean
+Dr. Bhupesh Manoharan
+Ph.D, IIM Calcutta
+Dr. Meenakshi Rishi
+Professor of Economics
+Dr. Nandini Seth
+Ph.D, IIM Bangalore
+Dr. Shad Morris
+Professor, MIT Sloan
+Dr. Akshay Narayanan
+Ph.D, IIM Calcutta
+Mr. Raghavshyam R.
+Adjunct Faculty
+Dr. Vipin Sreekumar
+Ph.D, IIM Calcutta
+Dr. Daniel GVD Vliet
+Executive Director
+Dr. Meha Kohli Mishra
+Ph.D, VCU
+Dr. Rajesh Bhargave
+Professor
+Dr. Garima Chaklader
+Ph.D, IIM Bangalore
+Dr. Francis Rebello
+Former Head- HR
+Dr. Kashika Sud
+Ph.D, IIM Ahmedabad
+Mr. Rajesh Madhavan
+Advisor
+Dr. Rinku Mahindru
+Ph.D, Delhi School of Economics
+Ms. Shivanee Pethe
+Ph.D, IIM Calcutta
+Dr. Aarti Sharma
+Ph.D, Shiv Nadar University
+Dr. Rakshita Sharma
+Former CHRO
+Dr. Arvind Mayaram
+Former Finance Secretary of India
+Mr. Ajay Jamuar
+Chief Operations Officer
+Ms. Monica Jasuja
+Head of Emerging Partnerships
+Dr. Manu Prasad
+Ph.D, IIM Tiruchirappalli
+Mr. Nitin Gaur
+Fmr. Director, Financial Sciences and Digital Assets
+Siddarth Padmanabhan
+Former Partner Manager
+Divij Bajaj
+Data and Applied Scientist
+Karan Bhyana
+Business Intelligence Generalist
+Sumoya Ghosh
+People Experience Partner
+Harneet S N
+Founder
+Vaibhav Gupta
+Sr. Product Manager
+Tarun Malik
+Co-Founder
+Ujjyaini Mitra
+Fromer Chief Data Officer
+Shanshank S Sharma
+Co-Founder
+Mr. Sidharth Balakrishna
+Former Group Strategy Head
+Dr. Soumik Bhushan
+Ex- Head CX Strategy
+Mr. Manoj Kohli
+Former CEO
+Ms. Malthi Satish
+Former Director of PM
+Dr. Tathagata Dasgupta
+Chief Data & Analytics Officer
+Mr. Rohit Kapoor
+CEO, Food Marketplace Swiggy
+Dr. Edward W Rogers
+Former Chief Knowledge Officer
+Mr. Elkana Ezekiel
+Former CMO
+Mr. Satish Krishnan
+Former MD
+Dr. Lan Ma
+Adjunct Professor of Business
+Ms. Vineeta Tikekar
+Former Head of Marketing
+Dr. Vishnuprasad N.
+Former Dean
+Dr. Bhupesh Manoharan
+Ph.D, IIM Calcutta
+Dr. Meenakshi Rishi
+Professor of Economics
+Dr. Nandini Seth
+Ph.D, IIM Bangalore
+Dr. Shad Morris
+Professor, MIT Sloan
+Dr. Akshay Narayanan
+Ph.D, IIM Calcutta
+Mr. Raghavshyam R.
+Adjunct Faculty
+Dr. Vipin Sreekumar
+Ph.D, IIM Calcutta
+Dr. Daniel GVD Vliet
+Executive Director
+Dr. Meha Kohli Mishra
+Ph.D, VCU
+Dr. Rajesh Bhargave
+Professor
+Dr. Garima Chaklader
+Ph.D, IIM Bangalore
+Dr. Francis Rebello
+Former Head- HR
+Dr. Kashika Sud
+Ph.D, IIM Ahmedabad
+Mr. Rajesh Madhavan
+Advisor
+Dr. Rinku Mahindru
+Ph.D, Delhi School of Economics
+Ms. Shivanee Pethe
+Ph.D, IIM Calcutta
+Dr. Aarti Sharma
+Ph.D, Shiv Nadar University
+Dr. Rakshita Sharma
+Former CHRO
+Dr. Arvind Mayaram
+Former Finance Secretary of India
+Mr. Ajay Jamuar
+Chief Operations Officer
+Ms. Monica Jasuja
+Head of Emerging Partnerships
+Dr. Manu Prasad
+Ph.D, IIM Tiruchirappalli
+Explore Masters' Union ...
+Student Life
+Explore Careers
+See the Campus
+Explore Events
+
+
+============================================================
+SOURCE: PGP-IN-APPLIED-AI-AND-AGENTIC-SYSTEMS-ADMISSIONS (https://mastersunion.org/pgp-in-applied-ai-and-agentic-systems-admissions)
+============================================================
+
+PG Programme in
+Applied AI & Agentic Systems
+
+A hands-on 15 month programme where you build AI agents every term.
+
+Apply Now
+PG Programme in Applied AI & Agentic Systems
+
+FORMAT
+
+Offline/Online
+
+Weekday offline for graduates; Weekend online designed for working professionals.
+
+COHORT STARTING
+
+Jun '26
+
+Applications Open
+
+ELIGIBILITY
+
+BCA/B.Tech
+
+For graduates and professionals with up to 5 years of experience.
+
+DURATION
+
+15 months
+
+Including live projects & Internship
+
+Apply Now
+Download Brochure
+Enrollment Checklist
+Admissions Criteria
+
+01.
+Academic Readiness
+
+01.
+Academic Readiness
+
+A bachelor’s degree with a solid foundation in logical or quantitative thinking. STEM backgrounds are preferred, though strong analytical aptitude from any discipline is valued.
+
+02.
+Experience (If applicable)
+
+02.
+Experience (If applicable)
+
+1-5 years of experience, ideally in a technology, data, or product-driven role, demonstrating comfort with structured problem-solving and decision-making.
+
+03.
+Technical Inclination
+
+03.
+Technical Inclination
+
+Should have curiosity and comfort with technology, shown through coding exposure, analytics tools, or other data-focused tasks.
+
+04.
+Critical & Analytical Thinking
+
+04.
+Critical & Analytical Thinking
+
+Capability to approach complex problems logically, interpret patterns, and make reasoned conclusions, assessed through the Tech Assessment and interview.
+
+Application Timeline & Process
+Rounds	Application Fees	Status	Action
+Round 1
+Fee 500/-
+
+Active
+Apply Now
+
+01.
+
+Complete the
+Application
+
+Share Your Background & Motivation
+
+Begin by filling out the online application form with your academic history, professional experience, and personal details.
+
+You will need:
+
+Academic transcripts (BCA / BTech or equivalent)
+
+Proof of professional experience (if applicable)
+
+Basic identity details
+
+Any certifications, projects, or achievements that strengthen your profile
+
+Video Essay
+
+As part of your application, please submit a 2-minute video introducing yourself and your journey so far. Share your interest in building a meaningful career in AI, why you believe you’re a strong fit for the programme, and how it aligns with your goals over the next 2–3 years.
+
+Keep it simple and authentic—no editing or production polish is required. Upload the video to Google Drive, ensure the access is set to “Anyone with the link can view,” and submit the link in Part 2 of your application form.
+
+02.
+
+Take the
+Scholastic Technical Test
+
+Assess Your Problem-Solving & Analytical Skills
+
+Shortlisted candidates will be invited to take the Masters’ Union Scholastic Technical Test, designed to evaluate:
+
+Logical Reasoning
+
+Mathematics & Statistics
+
+Programming Fundamentals
+
+The Masters’ Union Scholastic Technical Test is a timed, adaptive online assessment designed to evaluate your Logical Reasoning, analytical thinking, and problem-solving skills. Practice Test can be found here.
+
+03.
+
+Technical
+Interview
+
+About the Interview
+
+Shortlisted applicants will proceed to an in-person technical interview, conducted by practising data scientists, AI engineers, or faculty members.
+
+You’ll be assessed on:
+
+Foundational reasoning around Python, data, or AI concepts
+
+How you break down a problem
+
+Your curiosity, approach, and willingness to learn
+
+Your ability to think structurally under pressure
+
+04.
+
+Admission
+Decision
+
+Status of Evaluation
+
+The admissions committee will take a holistic view of your candidacy, considering your application, Scholastic Aptitude Test performance, technical interview, and overall fit for this intensive AI programme, before making a final decision. Applicants will be placed into one of three categories:
+
+Accepted
+
+Candidates offered admission will receive their decision along with the financial structure for the upcoming programme, and will have 7–21 days to confirm their seat by paying the admission fee.
+
+Waitlisted
+
+Masters’ Union does not maintain a ranked waitlist. Waitlisted applicants will be offered admission only if seats open up in the cohort. The committee reconvenes regularly to review and promote candidates from the waitlist to the accepted pool.
+
+Rejected
+
+Applicants who are not selected may reapply to the programme in the next cohort.
+
+Fee Structure
+Fee Timelines
+NON-REFUNDABLE
+Admissions Fee	15 MONTHS
+Tution Fees	TUTION FEES
+20% Scholarship	TUTION FEES
+30% Scholarship	TUTION FEES
+50% Scholarship
+Within 30 days of offer	INR 75,000/-	-	-	-	-
+Programme Commencement
+(Before start of classes)	-	INR 10,95,000/-	INR 8,76,000/-	INR 7,66,500/-	INR 5,47,500/-
+Mid-Programme Installment
+(After 3 months)	-	INR 10,95,000/-	INR 8,76,000/-	INR 7,66,500/-	INR 5,47,500/-
+Total	INR 75,000/-	INR 21,90,000/-	INR 17,52,000/-	INR 15,33,000/-	INR 10,95,000/-
+Scholarships
+
+Based on your academic record, professional experience, and personal
+circumstances, you may be eligible for merit-based or need-based scholarships.
+
+Merit-Based Scholarships
+
+Scholarships awarded to learners who demonstrate exceptional academic strength, professional experience, and technical aptitude.
+
+Need-Based Scholarships
+
+Scholarships awarded to learners who demonstrate exceptional academic strength, professional experience, and technical aptitude.
+
+100%
+
+Maximum merit-based programme fee received by a student.
+
+90+
+
+Scholarships available for the postgraduate batch.
+
+100%
+
+Loan coverage for the programme and hostel fees.
+
+Explore Masters' Union ...
+Student Life
+Explore Careers
+See the Campus
+Explore Events
+
+
+============================================================
+SOURCE: PGP-IN-APPLIED-AI-AND-AGENTIC-SYSTEMS-CAREER-PROSPECTS (https://mastersunion.org/pgp-in-applied-ai-and-agentic-systems-career-prospects)
+============================================================
+
+PG Programme in
+Applied AI & Agentic Systems
+
+A hands-on 15 month programme where you build AI agents every term.
+
+Apply Now
+PG Programme in Applied AI & Agentic Systems
+
+FORMAT
+
+Offline/Online
+
+Weekday offline for graduates; Weekend online designed for working professionals.
+
+COHORT STARTING
+
+Jun '26
+
+Applications Open
+
+ELIGIBILITY
+
+BCA/B.Tech
+
+For graduates and professionals with up to 5 years of experience.
+
+DURATION
+
+15 months
+
+Including live projects & Internship
+
+Apply Now
+Download Brochure
+PGP Placement Statistics
+
+33.39 LPA
+
+Average CTC
+
+
+
+International & International Remote Offers
+
+1.28 Cr
+
+Highest CTC
+
+64 LPA
+
+International Average CTC
+
+Announcing the Masters’ Union
+Placement Report
+
+These Brickworks-audited results from our TBM cohorts show what learners achieved, and what Applied AI aims to match and go beyond.
+
+Download Placement Report
+Top Recruiters
+Potential  Job Roles
+
+Our programme prepares professionals for high-growth roles in AI and data. From building and deploying real-world AI models to improving products and business decisions, graduates are ready for impactful roles across tech, finance, consulting, healthcare, and fast-growing startups.
+
+AI Ethics & Policy Specialist
+
+Data Visualization Expert
+
+AI Product Manager
+
+ML Ops Expert
+
+AI Solutions Architect
+
+NLP Specialist
+
+Data Scientist
+
+Predictive Analytics Expert
+
+Game Engineer
+
+Data Engineer
+
+Machine Learning Specialist
+
+Business Intelligence Analyst
+
+Computer Vision Specialist
+
+Big Data Expert
+
+Quantitative Analyst
+
+AI Strategy Consultant
+
+Cognitive Computing Specialist
+
+Human-Centered AI Designer
+
+Autonomous Systems Engineer
+
+Algorithmic Bias Auditor
+
+AI Ethics & Policy Specialist
+
+Data Visualization Expert
+
+AI Product Manager
+
+ML Ops Expert
+
+AI Solutions Architect
+
+NLP Specialist
+
+Data Scientist
+
+Predictive Analytics Expert
+
+Game Engineer
+
+Data Engineer
+
+Machine Learning Specialist
+
+Business Intelligence Analyst
+
+Computer Vision Specialist
+
+Big Data Expert
+
+Quantitative Analyst
+
+AI Strategy Consultant
+
+Cognitive Computing Specialist
+
+Human-Centered AI Designer
+
+Autonomous Systems Engineer
+
+Algorithmic Bias Auditor
+
+Careers Team
+Utsav Patodia
+Director’s Office - Career Services
+MBA, ISB | Ex. Deloitte
+Vinayak Khandelwal
+Associate Director
+MBA, ISB | Ex. OLA, Bain & Co
+Divyashish Jindal
+Associate Director
+IIT Delhi | Ex. Amazon, Doubtnut
+Sachin Rawat
+Associate Director
+MBA, IIM Bangalore| Ex. Myntra
+Shaurya Kumar Mittal
+Deputy Director
+MBA, ISB | Ex. Aditya Birla Group
+Abhishek Kaul
+Director - Corporate Engagements
+MBA, ISB | Ex. Walt Disney, EY, Times Group
+Abhinav Arora
+Associate Director, Strategic Initiatives
+MBA, FMS | Ex. TELUS Canada, EY, Jio
+Nishant Singh
+Deputy Director - Corporate Relations
+MBA, XLRI | Ex. Naukri.com, Korn Ferry
+Dibyendu Choudhury
+Head - Corporate Relations
+Ex. Amity University
+Anurag Yadav
+Head - Corporate Relations
+MBA, MDI Gurgaon | Ex. Accenture
+Gopika Kumar
+Head - Career Preparation
+Ph.D | Ex. SRCC
+Akash Aggarwal
+General Manager - Strategy and Operations
+MBA, NMIMS | Ex. British Airways, e-GMAT
+Simran Bhatia
+General Manager - Corporate Relations & Community
+Ex. KPMG, Unacademy
+Chanpreet Singh Gulati
+General Manager - Director's Office
+Ex. Zomato
+Vidhu Goel
+Head - Career Preparation
+MBA, MU | Ex. Collegedunia
+Shubham Gupta
+Associate Head - Career Preparation
+MBA, MU | Ex. Meltwater, Vistara
+Radhika Goyal
+Associate Head - Career Prep
+MBA, MU | Ex. Daarshik Aerotech, Virtusa
+Ajaya Kaushik
+Senior Manager II - Corporate Relations
+YIF, Ashoka University | Ex. Deutsche Telekom
+Abhinav Bhatnagar
+Senior Manager II - Corporate Relations
+Ex. Adobe, American Express
+Shonal Rath
+Senior Manager II - Community
+Ex. Dell Consulting
+Pragati Gupta
+Senior Manager I - Corporate Relations
+Ex. Pearson
+Jasleen Taluja
+Senior Manager I - Corporate Relations
+MBA, IMT Ghaziabad | Ex. Seekho
+Sidhartha Bal
+Manager - Corporate Relations
+Ex. Growth School
+Yashi Mishra
+Manager - International Corporate Relations
+Ex. Adani Airports
+Sonali Awasthi
+Program Manager - Career Preparation
+Ex. NIPUN Bharat (Govt of Haryana)
+Vinita Kaur
+Program Manager - Career Preparation
+Ex. upGrad
+Adiksha Bhalla
+Program Manager - Operations
+Ex. Sunstone
+Jitender Sharma
+Senior Program Associate - Director's Office
+Ex. Amity University, JIMS College
+Manas Arora
+Program Manager - Career Preparation
+Ex. Decathlon, GlobalLogic
+Yashaswini Sahu
+Program Associate
+Ex. Vaco Binary
+
+Reach out to our team at careerservices@mastersunion.org
+
+Top Recruiters
+Making You Industry-Ready
+Public Speaking & Communication Coach
+
+Master public speaking fears, build executive presence, and command respect through personalised coaching.
+
+Personal Branding Coach
+
+Cultivate influence through blogging, podcasting, personal websites, and building your LinkedIn followership.
+
+Career & Industry Coach
+
+Network with dream company executives and excel at job interviews through multiple mock sessions.
+
+Rajnish Virmani
+
+Ex President, COO at Reliance
+
+Coaching Experience: 10+ years
+
+Mamta Wasan
+
+Director & CEO, Mekosha Ayurveda
+
+Coaching Experience: 3+ years
+
+Sandeep Bidani
+
+Ex Executive Director HR, IBM
+
+Coaching Experience: 10+ years
+
+Andrea Stone
+
+Ex CMO, Mahindra Comviva
+
+Coaching Experience: 10+ years
+
+Santosh Sharan
+
+Ex Director HR, SC Johnson
+
+Coaching Experience: 5+ years
+
+Sandeep Suri
+
+Ex Country Head, Fidelity Investments
+
+Coaching Experience: 3+ years
+
+Explore Masters' Union ...
+Student Life
+Explore Careers
+See the Campus
+Explore Events
+
+
+============================================================
+SOURCE: PGP-IN-APPLIED-AI-AND-AGENTIC-SYSTEMS-APPLYNOW (https://mastersunion.org/pgp-in-applied-ai-and-agentic-systems-applynow)
+============================================================
+
+PG Programme in Applied AI & Agentic Systems
+The Masters' Union Edge in Applied AI
+
+Experience a world-class curriculum, unparalleled mentorship, and real-world impact that will
+accelerate your journey to becoming an AI leader.
+
+FACULTY & MENTORSHIP
+Learn from Leading
+AI Experts and CTOs
+
+Courses taught by executives from Microsoft, Google, and top tech companies, along with exclusive mentorship.
+
+
+
+1:1 mentorship from AI leaders at Amazon
+
+
+
+Masterclasses by global AI experts and influencers
+
+
+
+1:5 mentor-to-student ratio ensures personalised guidance
+
+CURRCIULUM
+Real-World Application of
+AI & Agentic Systems
+
+Co-built with  PwC, Ola Krutrim, and Rabbit AI, our curriculum emphasises application and impact.
+
+
+
+Develop real-world AI solutions for industries
+
+
+
+Hands-on projects using industry-standard tools
+
+
+
+Real-time case studies and interactive workshops
+
+PERSONAL BRANDING
+Establish Your
+Presence in the AI Community
+
+Learn how to build a strong online presence and showcase your expertise in AI through industry-specific platforms.
+
+
+
+Publish your models and research on GitHub
+
+
+
+Start an expert series on LinkedIn or YouTube
+
+
+
+Attract employers with high-value AI insights
+
+COMMUNICATION & LEADERSHIP
+Enhance Communication and
+Leadership Skills
+
+Develop critical soft skills that will set you apart in the fast-paced AI industry.
+
+
+
+Sharpen leadership and decision-making abilities
+
+
+
+Learn how to communicate complex AI concepts clearly
+
+
+
+Build confidence in executive-level presentations

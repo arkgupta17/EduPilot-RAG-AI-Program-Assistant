@@ -1,0 +1,486 @@
+PG Programme in
+Applied AI & Agentic Systems
+
+A hands-on 15 month programme where you build AI agents every term.
+
+Apply Now
+PG Programme in Applied AI & Agentic Systems
+
+FORMAT
+
+Offline/Online
+
+Weekday offline for graduates; Weekend online designed for working professionals.
+
+COHORT STARTING
+
+Jun '26
+
+Applications Open
+
+ELIGIBILITY
+
+BCA/B.Tech
+
+For graduates and professionals with up to 5 years of experience.
+
+DURATION
+
+15 months
+
+Including live projects & Internship
+
+Apply Now
+Download Brochure
+Explore with an
+AI-Packed Curriculum
+
+Immerse into our cutting-edge AI-packed Curriculum, tailored to showcase real-world applications and innovation.
+
+Enabling You to Excel
+Inside and Outside the Classroom
+Term 0
+
+Foundations of Programming
+
+Master Python, math for ML, and clean coding practices to establish a strong technical base for everything that follows.
+
+Term 1
+
+Data Analytics & AI Foundations
+
+Use statistics, SQL, visualisation, and prompt engineering to explore data, uncover insights, and build your first functional AI chatbot.
+
+Term 2
+
+Agents & Automation with Modern AI
+
+Learn how agent architectures, APIs, and classic ML methods combine to automate workflows and power real business operations.
+
+Term 3
+
+Applied Machine Learning for Real Decisions
+
+Build, evaluate, tune, deploy, and communicate ML models that directly influence business strategy and operational outcomes.
+
+Term 4
+
+RAG, Neural Networks & Data Engineering
+
+Construct scalable RAG systems, understand neural networks, and engineer robust data pipelines that keep AI products running reliably.
+
+Term 5
+
+Domain AI & Enterprise ML Design
+
+Apply supervised learning, forecasting, RL, and domain constraints to design AI solutions that are accurate, ethical, and compliant.
+
+Term 6
+
+MLOps, Governance & AI Leadership
+
+Master CI/CD for ML, monitoring, system design, and responsible AI to deliver enterprise-grade solutions and lead AI initiatives.
+
+Mastering Generative AI with
+Varun Mayya’s Masterclass
+
+Varun Mayya visited Masters’ Union to teach students how to work with generative AI, covering its impact on content creation, the fundamentals behind how it works, and what it could mean for the future of jobs. Watch the video to know more.
+
+Watch Video
+Real Insights from Our Faculty
+
+Gain insights from industry leaders on how technology is shaping the future.
+
+Tarun Malik, Ex. Microsoft & Amazon
+
+How Microsoft and Open AI are rewriting the AI rulebook
+
+Dr. Nandini Seth, Professor of Data - MU
+
+If AI will eat coders, how should one study AI
+
+Manpreet Ahuja, Chief Digital Officer - PwC
+
+How PwC is bringing impactful AI transformations to its clients
+
+Rohit Kumar, ChapterApps
+
+Explore the role of AI in learning and the future of work
+
+Dr. Vidur Mahajan, CARPL.ai
+
+Learn how AI is transforming healthcare and radiology
+
+Mr. Harneet Singh, Rabbitt AI
+
+Unlock secrets to a career in AI
+
+Learn from Real AI Experts & Industry Leaders. Not Just Textbooks.
+
+Courses taught by 20+ AI practitioners from Amazon, Microsoft, PayPal, and MIT.
+
+Access exclusive guest sessions from industry leaders like Tarun Malik and
+Malthi Satish.
+
+Engage in live Q&A sessions with Global AI leaders and innovators.
+
+1:1 consultation with experts from Google, IBM, and leading AI startups like
+Rabbit AI.
+
+Mr. Nitin Gaur
+Fmr. Director, Financial Sciences and Digital Assets
+Siddarth Padmanabhan
+Former Partner Manager
+Divij Bajaj
+Data and Applied Scientist
+Karan Bhyana
+Business Intelligence Generalist
+Sumoya Ghosh
+People Experience Partner
+Harneet S N
+Founder
+Vaibhav Gupta
+Sr. Product Manager
+Tarun Malik
+Co-Founder
+Ujjyaini Mitra
+Fromer Chief Data Officer
+Shanshank S Sharma
+Co-Founder
+Mr. Sidharth Balakrishna
+Former Group Strategy Head
+Dr. Soumik Bhushan
+Ex- Head CX Strategy
+Mr. Manoj Kohli
+Former CEO
+Ms. Malthi Satish
+Former Director of PM
+Dr. Tathagata Dasgupta
+Chief Data & Analytics Officer
+Mr. Rohit Kapoor
+CEO, Food Marketplace Swiggy
+Dr. Edward W Rogers
+Former Chief Knowledge Officer
+Mr. Elkana Ezekiel
+Former CMO
+Mr. Satish Krishnan
+Former MD
+Dr. Lan Ma
+Adjunct Professor of Business
+Ms. Vineeta Tikekar
+Former Head of Marketing
+Dr. Vishnuprasad N.
+Former Dean
+Dr. Bhupesh Manoharan
+Ph.D, IIM Calcutta
+Dr. Meenakshi Rishi
+Professor of Economics
+Dr. Nandini Seth
+Ph.D, IIM Bangalore
+Dr. Shad Morris
+Professor, MIT Sloan
+Dr. Akshay Narayanan
+Ph.D, IIM Calcutta
+Mr. Raghavshyam R.
+Adjunct Faculty
+Dr. Vipin Sreekumar
+Ph.D, IIM Calcutta
+Dr. Daniel GVD Vliet
+Executive Director
+Dr. Meha Kohli Mishra
+Ph.D, VCU
+Dr. Rajesh Bhargave
+Professor
+Dr. Garima Chaklader
+Ph.D, IIM Bangalore
+Dr. Francis Rebello
+Former Head- HR
+Dr. Kashika Sud
+Ph.D, IIM Ahmedabad
+Mr. Rajesh Madhavan
+Advisor
+Dr. Rinku Mahindru
+Ph.D, Delhi School of Economics
+Ms. Shivanee Pethe
+Ph.D, IIM Calcutta
+Dr. Aarti Sharma
+Ph.D, Shiv Nadar University
+Dr. Rakshita Sharma
+Former CHRO
+Dr. Arvind Mayaram
+Former Finance Secretary of India
+Mr. Ajay Jamuar
+Chief Operations Officer
+Ms. Monica Jasuja
+Head of Emerging Partnerships
+Dr. Manu Prasad
+Ph.D, IIM Tiruchirappalli
+Mr. Nitin Gaur
+Fmr. Director, Financial Sciences and Digital Assets
+Siddarth Padmanabhan
+Former Partner Manager
+Divij Bajaj
+Data and Applied Scientist
+Karan Bhyana
+Business Intelligence Generalist
+Sumoya Ghosh
+People Experience Partner
+Harneet S N
+Founder
+Vaibhav Gupta
+Sr. Product Manager
+Tarun Malik
+Co-Founder
+Ujjyaini Mitra
+Fromer Chief Data Officer
+Shanshank S Sharma
+Co-Founder
+Mr. Sidharth Balakrishna
+Former Group Strategy Head
+Dr. Soumik Bhushan
+Ex- Head CX Strategy
+Mr. Manoj Kohli
+Former CEO
+Ms. Malthi Satish
+Former Director of PM
+Dr. Tathagata Dasgupta
+Chief Data & Analytics Officer
+Mr. Rohit Kapoor
+CEO, Food Marketplace Swiggy
+Dr. Edward W Rogers
+Former Chief Knowledge Officer
+Mr. Elkana Ezekiel
+Former CMO
+Mr. Satish Krishnan
+Former MD
+Dr. Lan Ma
+Adjunct Professor of Business
+Ms. Vineeta Tikekar
+Former Head of Marketing
+Dr. Vishnuprasad N.
+Former Dean
+Dr. Bhupesh Manoharan
+Ph.D, IIM Calcutta
+Dr. Meenakshi Rishi
+Professor of Economics
+Dr. Nandini Seth
+Ph.D, IIM Bangalore
+Dr. Shad Morris
+Professor, MIT Sloan
+Dr. Akshay Narayanan
+Ph.D, IIM Calcutta
+Mr. Raghavshyam R.
+Adjunct Faculty
+Dr. Vipin Sreekumar
+Ph.D, IIM Calcutta
+Dr. Daniel GVD Vliet
+Executive Director
+Dr. Meha Kohli Mishra
+Ph.D, VCU
+Dr. Rajesh Bhargave
+Professor
+Dr. Garima Chaklader
+Ph.D, IIM Bangalore
+Dr. Francis Rebello
+Former Head- HR
+Dr. Kashika Sud
+Ph.D, IIM Ahmedabad
+Mr. Rajesh Madhavan
+Advisor
+Dr. Rinku Mahindru
+Ph.D, Delhi School of Economics
+Ms. Shivanee Pethe
+Ph.D, IIM Calcutta
+Dr. Aarti Sharma
+Ph.D, Shiv Nadar University
+Dr. Rakshita Sharma
+Former CHRO
+Dr. Arvind Mayaram
+Former Finance Secretary of India
+Mr. Ajay Jamuar
+Chief Operations Officer
+Ms. Monica Jasuja
+Head of Emerging Partnerships
+Dr. Manu Prasad
+Ph.D, IIM Tiruchirappalli
+Mr. Nitin Gaur
+Fmr. Director, Financial Sciences and Digital Assets
+Siddarth Padmanabhan
+Former Partner Manager
+Divij Bajaj
+Data and Applied Scientist
+Karan Bhyana
+Business Intelligence Generalist
+Sumoya Ghosh
+People Experience Partner
+Harneet S N
+Founder
+Vaibhav Gupta
+Sr. Product Manager
+Tarun Malik
+Co-Founder
+Ujjyaini Mitra
+Fromer Chief Data Officer
+Shanshank S Sharma
+Co-Founder
+Mr. Sidharth Balakrishna
+Former Group Strategy Head
+Dr. Soumik Bhushan
+Ex- Head CX Strategy
+Mr. Manoj Kohli
+Former CEO
+Ms. Malthi Satish
+Former Director of PM
+Dr. Tathagata Dasgupta
+Chief Data & Analytics Officer
+Mr. Rohit Kapoor
+CEO, Food Marketplace Swiggy
+Dr. Edward W Rogers
+Former Chief Knowledge Officer
+Mr. Elkana Ezekiel
+Former CMO
+Mr. Satish Krishnan
+Former MD
+Dr. Lan Ma
+Adjunct Professor of Business
+Ms. Vineeta Tikekar
+Former Head of Marketing
+Dr. Vishnuprasad N.
+Former Dean
+Dr. Bhupesh Manoharan
+Ph.D, IIM Calcutta
+Dr. Meenakshi Rishi
+Professor of Economics
+Dr. Nandini Seth
+Ph.D, IIM Bangalore
+Dr. Shad Morris
+Professor, MIT Sloan
+Dr. Akshay Narayanan
+Ph.D, IIM Calcutta
+Mr. Raghavshyam R.
+Adjunct Faculty
+Dr. Vipin Sreekumar
+Ph.D, IIM Calcutta
+Dr. Daniel GVD Vliet
+Executive Director
+Dr. Meha Kohli Mishra
+Ph.D, VCU
+Dr. Rajesh Bhargave
+Professor
+Dr. Garima Chaklader
+Ph.D, IIM Bangalore
+Dr. Francis Rebello
+Former Head- HR
+Dr. Kashika Sud
+Ph.D, IIM Ahmedabad
+Mr. Rajesh Madhavan
+Advisor
+Dr. Rinku Mahindru
+Ph.D, Delhi School of Economics
+Ms. Shivanee Pethe
+Ph.D, IIM Calcutta
+Dr. Aarti Sharma
+Ph.D, Shiv Nadar University
+Dr. Rakshita Sharma
+Former CHRO
+Dr. Arvind Mayaram
+Former Finance Secretary of India
+Mr. Ajay Jamuar
+Chief Operations Officer
+Ms. Monica Jasuja
+Head of Emerging Partnerships
+Dr. Manu Prasad
+Ph.D, IIM Tiruchirappalli
+Mr. Nitin Gaur
+Fmr. Director, Financial Sciences and Digital Assets
+Siddarth Padmanabhan
+Former Partner Manager
+Divij Bajaj
+Data and Applied Scientist
+Karan Bhyana
+Business Intelligence Generalist
+Sumoya Ghosh
+People Experience Partner
+Harneet S N
+Founder
+Vaibhav Gupta
+Sr. Product Manager
+Tarun Malik
+Co-Founder
+Ujjyaini Mitra
+Fromer Chief Data Officer
+Shanshank S Sharma
+Co-Founder
+Mr. Sidharth Balakrishna
+Former Group Strategy Head
+Dr. Soumik Bhushan
+Ex- Head CX Strategy
+Mr. Manoj Kohli
+Former CEO
+Ms. Malthi Satish
+Former Director of PM
+Dr. Tathagata Dasgupta
+Chief Data & Analytics Officer
+Mr. Rohit Kapoor
+CEO, Food Marketplace Swiggy
+Dr. Edward W Rogers
+Former Chief Knowledge Officer
+Mr. Elkana Ezekiel
+Former CMO
+Mr. Satish Krishnan
+Former MD
+Dr. Lan Ma
+Adjunct Professor of Business
+Ms. Vineeta Tikekar
+Former Head of Marketing
+Dr. Vishnuprasad N.
+Former Dean
+Dr. Bhupesh Manoharan
+Ph.D, IIM Calcutta
+Dr. Meenakshi Rishi
+Professor of Economics
+Dr. Nandini Seth
+Ph.D, IIM Bangalore
+Dr. Shad Morris
+Professor, MIT Sloan
+Dr. Akshay Narayanan
+Ph.D, IIM Calcutta
+Mr. Raghavshyam R.
+Adjunct Faculty
+Dr. Vipin Sreekumar
+Ph.D, IIM Calcutta
+Dr. Daniel GVD Vliet
+Executive Director
+Dr. Meha Kohli Mishra
+Ph.D, VCU
+Dr. Rajesh Bhargave
+Professor
+Dr. Garima Chaklader
+Ph.D, IIM Bangalore
+Dr. Francis Rebello
+Former Head- HR
+Dr. Kashika Sud
+Ph.D, IIM Ahmedabad
+Mr. Rajesh Madhavan
+Advisor
+Dr. Rinku Mahindru
+Ph.D, Delhi School of Economics
+Ms. Shivanee Pethe
+Ph.D, IIM Calcutta
+Dr. Aarti Sharma
+Ph.D, Shiv Nadar University
+Dr. Rakshita Sharma
+Former CHRO
+Dr. Arvind Mayaram
+Former Finance Secretary of India
+Mr. Ajay Jamuar
+Chief Operations Officer
+Ms. Monica Jasuja
+Head of Emerging Partnerships
+Dr. Manu Prasad
+Ph.D, IIM Tiruchirappalli
+Explore Masters' Union ...
+Student Life
+Explore Careers
+See the Campus
+Explore Events
